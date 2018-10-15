@@ -1,0 +1,4 @@
+.score-table {
+	display: flex;
+	flex-direction: row;
+}
